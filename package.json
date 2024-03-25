@@ -1,5 +1,5 @@
 {
-  "name": "@eyevinn/typescript-nodejs",
+  "name": "@eyevinn/api-test",
   "version": "1.0.0",
   "description": "The default typescript-nodejs template for eyevinn projects",
   "scripts": {

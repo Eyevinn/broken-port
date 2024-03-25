@@ -1,19 +1,6 @@
-# {{Name}}
+# A Simple Service
 
-<!--
-
-## Requirements
-Add any external project dependencies such as node.js version etc here
-
-## Installation / Usage
-
-Add clear instructions on how to use the project here
-
-## Development
-
-Add clear instructions on how to start development of the project here
-
--->
+Used for testing
 
 ### Contributing
 
